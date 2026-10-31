@@ -1,0 +1,20 @@
+{
+  "name": "Classroom",
+  "short_name": "Classroom",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F87505",
+  "theme_color": "#F87505",
+  "icons": [
+    {
+      "src": "favicon-BVSVfY-O.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
